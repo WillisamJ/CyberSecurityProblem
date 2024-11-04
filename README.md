@@ -1,0 +1,1 @@
+The cybersecurity industry is experiencing a significant talent gap, with over 1.5 million job openings in the U.S. in 2024, but only about 1.28 million available workers, resulting in a shortage of around 225,200 professionals. This demand spans various industries, particularly for mid-level roles that require 2-10 years of experience, which face the greatest shortages.
