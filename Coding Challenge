@@ -1,1 +1,22 @@
+// Define a constant array named ExperienceLevel
+const ExperienceLvl = [
+    {
+        // Object representing entry-level job information
+        Level: "Entry-level",          // The level of experience
+        LocalJobOpenings: 1,          // Number of local job openings for this level
+        AvailableTalent: 1             // Number of available candidates at this level
+    },
+    {
+        // Object representing mid-level job information
+        Level: "Mid-level",            // The level of experience
+        LocalJobOpenings: 1,           // Number of local job openings for this level
+        AvailableTalent: 1              // Number of available candidates at this level
+    },
+    {
+        // Object representing senior-level job information
+        Level: "Senior-level",         // The level of experience
+        LocalJobOpenings: 1,           // Number of local job openings for this level
+        AvailableTalent: 1              // Number of available candidates at this level
+    }
+];
 
